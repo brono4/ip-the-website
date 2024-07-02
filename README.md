@@ -1,4 +1,4 @@
-# ip-the-website
+# ip the website
 This tool fetches a website's IP
 
 # install
