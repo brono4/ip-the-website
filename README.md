@@ -1,7 +1,7 @@
 # ip-the-website
 This tool fetches a website's IP
 
-#install
+#INSTALL
 
 git clone https://github.com/brono4578/ip-the-website.git
 
